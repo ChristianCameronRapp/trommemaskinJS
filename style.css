@@ -1,0 +1,38 @@
+.title{
+  font-size: 3.5vw;
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+#container{
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.tromme{
+  border: .108vw solid yellow;
+  min-width: 6vw;
+  line-height: 1.5vw;
+  background-color: #111111;
+  color: yellow;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.bokstav{
+  font-size: 1.5vw;
+}
+
+.valgtTromme{
+  border: .108vw solid #111111;
+  min-width: 6vw;
+  line-height: 1.5vw;
+  background-color: yellow;
+  color: #111111;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.trommeNavn{
+  text-transform: uppercase;
+  font-size: 1vw;
+}
